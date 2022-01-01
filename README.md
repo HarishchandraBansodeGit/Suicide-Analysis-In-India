@@ -1,2 +1,2 @@
 # Suicide-Analysis-In-India
-This data set contains yearly suicide detail of all the States and union territories of India by various parameters from 2001 to 2012.
+Analysis of the data set to draw useful results like demographics of suicides, state with highest number of suicides, most common reasons for suicides, etc.![suicide-image](https://static.theprint.in/wp-content/uploads/2020/01/suicide.jpg)
