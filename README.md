@@ -120,48 +120,12 @@ This project is a **data analysis and visualization study** on suicide trends in
 
 ---
 
-## ⚡ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/HarishchandraBansodeGit/Suicide-Analysis-In-India.git
-```
-
-2. Extract the CSV if zipped
-3. Open `Suicide_Analysis_in_India.ipynb` in Jupyter Notebook or Google Colab
-4. Install dependencies (optional if using Colab):
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-5. Run all cells to reproduce the analysis and visualizations
-
-> Or simply click the **Binder badge above** to run it online interactively.
-
----
-
 ## 📚 References
 
 * [Wikipedia – Suicide in India](https://en.wikipedia.org/wiki/Suicide_in_India)
 * [Our World in Data](https://ourworldindata.org/suicide)
 * [National Crime Records Bureau](https://ncrb.gov.in/)
 
----
-
-## 👤 Author
-
-**Harishchandra Devadatta Bansode**
-*Department of Computer Science*
-*Sir Parashurambhau College (Autonomous), Pune*
 
 ---
 
-## 🏷 Topics / Tags
-
-`visualization` `dataanalysis` `suicide-prevention` `python` `EDA` `pandas` `Jupyter`
-
----
-
-Do you want me to do that next?
